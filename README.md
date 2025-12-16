@@ -2,20 +2,6 @@
 
 This repository contains hands-on implementations of **Terraform expressions** that help in writing cleaner, more maintainable, and environment-aware infrastructure as code. The examples here are built and tested by me as part of my AWS Terraform learning series.
 
-## Table of Contents
-1. [Overview](#overview)  
-2. [Topics Covered](#topics-covered)  
-3. [Learning Objectives](#learning-objectives)  
-4. [Implementation Details](#implementation-details)  
-   - [Conditional Expressions](#conditional-expressions)  
-   - [Dynamic Blocks](#dynamic-blocks)  
-   - [Splat Expressions](#splat-expressions)  
-5. [Code Examples](#code-examples)  
-6. [Benefits](#benefits)  
-7. [Best Practices](#best-practices)  
-8. [Next Steps](#next-steps)  
-9. [References](#references)  
-
 ---
 
 ## Overview
