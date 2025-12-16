@@ -207,8 +207,7 @@ All examples are fully implemented and tested in my AWS environment.
 * [Terraform Conditional Expressions](https://www.terraform.io/language/expressions/conditionals)
 * [Terraform Dynamic Blocks](https://www.terraform.io/language/expressions/dynamic-blocks)
 * [Terraform Splat Expressions](https://www.terraform.io/language/expressions/splat)
-* AWS Terraform Day 10 Video Series by Piyush
 
 ```
 
-```
+
